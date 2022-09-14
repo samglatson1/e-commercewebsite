@@ -1,0 +1,105 @@
+.box1{
+    font-size: large;
+    font-weight: 700;
+    padding-top: 10px;
+    background-color: white;
+    /* height: 60vh; */
+    margin-left: 10vh;
+    padding-right: 10px;
+}
+.con1{
+    background-color: #eaeded;
+  position: sticky;
+  margin-top: -2vh;
+}
+.box2{
+    background-color: white;
+    height: 60vh;
+    margin-left: 10vh;
+    font-size: larger;
+    font-weight: 700;
+}
+.box3{
+    font-size: larger;
+    font-weight: 700;
+    padding-top: 10px;
+    background-color: white;
+    height: 60vh;
+    margin-left: 10vh;
+}
+.fur{
+    height: 15vh;
+    width: 20vh;
+    padding-left: 1vh;
+    padding-bottom: 1vh;
+}
+.box4{
+    font-size: larger;
+    font-weight: 700;
+    padding-top: 10px;
+    background-color: white;
+    height: 60vh;
+    margin-left: 10vh;
+    margin-top: 2vh;
+}
+.descr{
+    font-size: x-small;
+    padding-left: 5px;
+}
+.fur2{
+    height: 35vh;
+    width: 40vh;
+    padding-left: 2vh;
+}
+.row2{
+    padding-top: 2vh;
+}
+.baby1{
+    width: 30vh;
+    height: 15vh;
+}
+.baby2{
+    width: 10vh;
+    height: 10vh;
+    padding-left: 5px;
+}
+.baby3{
+    width: 10vh;
+    height: 10vh;
+    margin-left: 80px;
+}
+.baby4{
+    width: 10vh;
+    height: 10vh;
+    margin-left: 150px;
+}
+.sareecar{
+    margin-left: 3vh;
+    margin-right: 3vh;
+    margin-top: 5vh;
+    height: 40vh;
+}
+.sareecon{
+    margin-left: 2vh;
+    margin-right: 2vh;
+    font-weight: 900;
+    font-size: medium;
+    background-color: white;
+}
+.see_more{
+    font-size: x-small;
+    padding-left: 10px;
+    padding-top: 30px;
+    text-decoration: underline;
+    color: rgb(95, 95, 243);
+}
+.see_more:hover{
+    color: orange;
+}
+.donnn12{
+    background-color: white;
+    color: black;
+    height: 50vh;
+    margin-right: 10px;
+    
+}

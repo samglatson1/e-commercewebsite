@@ -1,0 +1,88 @@
+.imgheight{
+    height: 70vh;
+    width: 50vh;
+    padding-top: 10vh;
+}
+.productdet{
+    margin-top: 5vh;
+    font-size: x-large;
+}
+.SamsungStore{
+    color: rgb(103, 150, 190);
+}
+
+.fastar1{
+    color: rgb(254, 204, 112);
+}
+.rating{
+    padding-left: 30px;
+}
+.SamsungStore:hover{
+    text-decoration: underline;
+    color: rgb(254, 204, 112);
+}
+.hrwidth{
+    width: 100vh;
+}
+.discount{
+    font-size: x-large;
+    color: red;
+    padding: 5px;
+}
+.price1{    
+    font-size: x-large;
+}
+.mrp{
+    font-size: small;
+}
+.originalprice{
+    text-decoration: line-through;
+    font-size: small;
+}
+.offer4{
+    font-weight: 600;
+}
+.cardbank{
+    margin-top: 5px;
+    margin-left: 5px;
+}
+.cardstyle{
+    margin-right: 3px;
+}
+.cardtitle{
+    font-size: medium;
+}
+.days{
+    text-align: center;
+    color:  rgb(103, 150, 190);
+}
+.days2{
+    padding-top: 5px;
+}
+.days:hover{
+    color: rgb(255, 198, 91);
+    text-decoration: underline;
+}
+.firstproduct{
+    font-size: medium;
+}
+.PhantomBlack{
+    font-weight: 700;
+}
+.gb{
+    background-color: #fefaf6;
+    border-color: #ea994a;
+}
+.newull{
+    background-color: white;
+}
+.hrwidth12{
+    width: 100vw;
+}
+.imgheight:hover{
+    -moz-transform: scale(0.7) translate(17px, 5px) skew(0deg, -1deg);
+-webkit-transform: scale(0.7) translate(17px, 5px) skew(0deg, -1deg);
+-o-transform: scale(0.7) translate(17px, 5px) skew(0deg, -1deg);
+-ms-transform: scale(0.7) translate(17px, 5px) skew(0deg, -1deg);
+transform: scale(0.7) translate(17px, 5px) skew(0deg, -1deg);
+}

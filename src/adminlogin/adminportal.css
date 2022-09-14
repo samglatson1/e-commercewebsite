@@ -1,0 +1,9 @@
+.paddingtop{
+    margin-top: 6px;
+}
+.adminlog{
+    border-style: solid;
+    border-width: 2px;
+    border-color: rgb(196, 190, 190);
+    width: 60vh;
+}

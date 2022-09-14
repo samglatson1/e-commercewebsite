@@ -1,0 +1,118 @@
+.sign{
+    height: 50px;
+    padding-left: 12vh;
+
+}
+.box{
+    width: 40vh;
+    height: 25px;
+}
+.box:hover{
+    border-color: orange;
+    border-style: solid;
+}
+.mainbox{
+    border-style: solid;
+    width: 45vh;
+    padding-left: 20px;
+    border-color: #e5e5e5;
+    border-radius: 5px;
+
+}
+.con{
+    font-weight: lighter;
+    font-size: xx-large;
+    font-weight: 450;
+    padding-top: 10px;
+}
+.but{
+    width: 41vh;
+    margin-top: 10px;
+    background-color: #f4d17b;
+    height: 35px;
+    border-color: white;
+    border-style: solid;
+}
+.but:hover{
+    background-color:  rgb(253, 179, 42);
+}
+
+.para{
+    font-size: small;
+    font-weight: 450;
+    margin-right: 10px;
+}
+.span1{
+    color: blue;
+}
+.span1:hover{
+    text-decoration: underline;
+    color: orangered;
+}
+.sel{
+    border: none;
+    color: rgb(56, 56, 249);
+    font-size: small;
+    font-weight: 450;
+}
+
+.sel:hover{
+    text-decoration: underline;
+    color: rgb(255, 100, 44);
+}
+/* hr{
+    width: 20vh;
+    margin-right: 60vh;
+} */
+
+.last1{
+    /* width: 45vh; */
+    text-align: center;
+        /* padding-top: 2vh;     */
+    border-radius: 2px;
+    font-size: smaller;
+}
+.finalbutton{
+    margin-left: 50vh;
+    width: 45vh;
+    height: 35px;
+}
+/* .hr{
+    width: 90vh;
+    margin-left: 30vh;
+    margin-top: 30px;
+    border-top-color: #e5e5e5;
+    border-width: 3px;
+} */
+.help{
+    display: flex;
+    flex-direction: row;
+    padding-left: 60vh;
+    height: 40vh;
+    margin-top: -15px;
+    padding-top: 4vh;
+    background-image: linear-gradient(to right, white,#ededed,white);
+}
+
+.lastcon{
+    margin-top: -30vh;
+    padding-left: 62vh;
+    font-size: x-small;
+    font-weight: 450;
+}
+.loo{
+    margin-left: 80vh;   
+}
+.neee{
+    margin-left: 30vh;
+    margin-right: 30vh;
+}
+.mobile{
+    font-weight: 600;
+    font-size: medium;
+    padding-top: 10px;
+}
+.noww{
+    /* margin-left: 40vw;    */
+    padding-left: 35vw;
+}

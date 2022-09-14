@@ -1,0 +1,77 @@
+.bottom_hr{
+    background-color: gray;
+    width: 100%;
+}
+.bottom_content{
+    text-align: center;
+    font-size: small;
+}
+.bottom_button{
+    width: 30vh;
+    border-radius: 5px;
+    background-color: rgb(237, 187, 94);
+    border: none;
+    outline: none;
+}
+.Start_here{
+    color: rgb(149, 149, 241);
+}
+.Start_here:hover{
+    color: orange;
+}
+.back_to_top{
+    background-color: #485769;
+    color: white;
+    padding-top: 10px;
+}
+.Get_knows{
+    background-color: #232f3e;
+}
+.p_p{
+    color: white;
+    padding-left: 10vh;
+}
+#GettoKnowsus{
+    font-size: small;
+    font-weight: 700;
+}
+#new_hr{
+    background-color: rgb(238, 229, 229);
+    width: 100%;
+}
+.last7{
+    background-color: #232f3e;
+}
+.global{
+    background-color: white;
+    margin-left: 1vh;
+}
+.op{
+    width: 20vh;
+    border: none;
+    outline: none;
+    background-color: #232f3e;
+    color: white;
+}
+.in{
+    text-align: center;
+}
+#country{
+    color: whitesmoke;
+    font-size: x-small; 
+    text-align: center;
+}
+#country:hover{
+    text-decoration: underline;
+}
+.bottom_final{
+    background-color: #131a22;
+}
+.black_1{
+    color: whitesmoke;
+    font-size: x-small;
+}
+.bottomspi{
+    position: sticky;
+    background-color: white;
+}
